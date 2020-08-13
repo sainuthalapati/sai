@@ -9,9 +9,16 @@ Nice
 One
 Sir
 Please
+<<<<<<< HEAD
 Conflict
+=======
 Hello
+<<<<<<< HEAD
 dfhsdg
 fgdhsgfh
 dfdfSG
 
+=======
+>>>>>>> sai
+SI
+>>>>>>> parent of 7dd1585... Modified
